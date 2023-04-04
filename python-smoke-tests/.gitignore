@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+Applicants/__pycache__/
+Applicants/testing/__pycache__/
+.coverage
+pylintrc
